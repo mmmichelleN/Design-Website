@@ -118,16 +118,3 @@ footer {
     left: 0; 
     width: 100%;
 }
-
-/*Dark Mode*/
-.darkMode {
-    background-color: black;
-    color: white;
-}
-
-/*Button Appearance*/
-#darkModeButton {
-    background-color: lightblue;
-    color: black;
-
-}
