@@ -52,8 +52,8 @@ a {
   text-decoration: none;
 }
 
-h2 {
-  color: #DAA520;
+#quote {
+  padding: 10%;
 }
 
 a:hover {
@@ -89,4 +89,12 @@ footer {
   width: 100%;
 }
 
+.darkMode {
+  background-color: black;
+  color: #FFFEE0;
+}
 
+/*Button Appearance*/
+#darkModeButton {
+  color: black;
+}
