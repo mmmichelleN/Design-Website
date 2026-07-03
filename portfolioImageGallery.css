@@ -64,7 +64,7 @@ a:hover {
     height: 100%;
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    padding: 2%;
+    padding: 5%;
     gap: 2%;
 }
 
@@ -117,4 +117,17 @@ footer {
     bottom: 0;
     left: 0; 
     width: 100%;
+}
+
+.darkMode {
+    background-color: black;
+    color: #FFFEE0;
+}
+
+/*Button Appearance*/
+#darkModeButton {
+    top: 75%;
+    left: 48%;
+    position: relative;
+    color: black;
 }
