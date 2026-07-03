@@ -18,6 +18,10 @@ body {
     text-align: center;
 }
 
+#desc {
+    padding: 10%;
+}
+
 header {
     text-align: center;
     top: 0;
@@ -84,4 +88,14 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
+}
+
+.darkMode {
+    background-color: black;
+    color: #FFFEE0;
+}
+
+/*Button Appearance*/
+#darkModeButton {
+    color: black;
 }
