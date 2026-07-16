@@ -126,8 +126,13 @@ footer {
 
 /*Button Appearance*/
 #darkModeButton {
-    top: 75%;
-    left: 48%;
-    position: relative;
-    color: black;
+  color: #FF6F61;
+  border: none;
+  background-color: transparent;
+  font-size:100%;
+}
+
+/*Button on hover appearance*/
+#darkButton:hover {
+    color: #FF4500;
 }
