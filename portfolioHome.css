@@ -96,5 +96,13 @@ footer {
 
 /*Button Appearance*/
 #darkModeButton {
-  color: black;
+  color: #FF6F61;
+  border: none;
+  background-color: transparent;
+  font-size: 100%;
+}
+
+/*Button on hover appearance*/
+#darkModeButton:hover {
+  color:#FF4500;
 }
