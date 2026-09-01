@@ -136,3 +136,21 @@ footer {
 #darkButton:hover {
     color: #FF4500;
 }
+
+@media (width < 769px)
+{
+    .grid1 {
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    img {
+        max-width: 65%;
+    }
+
+    .grid2 {
+        margin-top: 50%;
+    }
+}
+
+
